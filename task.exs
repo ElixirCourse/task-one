@@ -6,5 +6,3 @@ fn
 end
 
 if_else_lazy = &(if_else.(&1, &2, &3).())
-
-IO.puts(if_else.(true, "t", "f"))
